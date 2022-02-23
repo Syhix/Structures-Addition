@@ -1,0 +1,10 @@
+{
+  "config": {
+    "start_pool": "example:camp_site/site",
+    "size": 2
+  },
+  "biomes": "#minecraft:is_forest",
+  "adapt_noise": false,
+  "spawn_overrides": {},
+  "type": "minecraft:village"
+}
