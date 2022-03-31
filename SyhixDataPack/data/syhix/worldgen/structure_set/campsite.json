@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "syhix:campsite",
+      "weight": 5
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 20,
+    "separation": 2,
+    "salt": 875464
+  }
+}

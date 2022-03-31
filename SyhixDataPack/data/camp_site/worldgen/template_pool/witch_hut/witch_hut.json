@@ -1,0 +1,15 @@
+{
+  "name": "camp_site:witch_hut",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "camp_site:witch_hut",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

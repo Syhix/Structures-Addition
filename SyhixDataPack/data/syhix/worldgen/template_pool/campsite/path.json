@@ -1,0 +1,78 @@
+{
+  "name": "syhix:campsite/path",
+  "fallback": "syhix:campsite/path_end",
+  "elements": [
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "syhix:campsite/path/big_path_03",
+        "processors": "minecraft:street_plains"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "syhix:campsite/path/center_01",
+        "processors": "minecraft:street_plains"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "syhix:campsite/path/corner_01",
+        "processors": "minecraft:street_plains"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "syhix:campsite/path/corner_02",
+        "processors": "minecraft:street_plains"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "syhix:campsite/path/corner_03",
+        "processors": "minecraft:street_plains"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "syhix:campsite/path/corner_04",
+        "processors": "minecraft:street_plains"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "syhix:campsite/path/big_path_house_01",
+        "processors": "minecraft:street_plains"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "syhix:campsite/path/big_path_house_02",
+        "processors": "minecraft:street_plains"
+      }
+    }
+  ]
+}

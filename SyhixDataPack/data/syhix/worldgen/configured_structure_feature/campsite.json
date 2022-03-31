@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:village",
+  "biomes": [
+    "minecraft:forest"
+  ],
+  "adapt_noise": true,
+  "spawn_overrides": {},
+  "config": {
+    "start_pool": "syhix:campsite/center",
+    "size": 6
+  }
+}
