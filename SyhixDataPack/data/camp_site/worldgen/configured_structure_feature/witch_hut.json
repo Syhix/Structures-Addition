@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:village",
+  "biomes": "minecraft:swamp",
+  "adapt_noise": true,
+  "spawn_overrides": {
+    "creature": {
+      "bounding_box": "piece",
+      "spawns": [
+        {
+          "type": "minecraft:cat",
+          "weight": 1,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    }
+  },
+  "config": {
+    "start_pool": "camp_site:witch_hut/witch_hut",
+    "size": 1
+  }
+}

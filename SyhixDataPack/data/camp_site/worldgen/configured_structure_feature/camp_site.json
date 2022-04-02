@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:village",
+  "biomes": [
+    "minecraft:forest",
+    "minecraft:flower_forest",
+    "minecraft:birch_forest",
+    "minecraft:old_growth_birch_forest",
+    "minecraft:dark_forest",
+    "minecraft:grove",
+    "minecraft:plains",
+    "minecraft:meadow",
+    "minecraft:sparse_jungle",
+    "minecraft:swamp"
+  ],
+  "adapt_noise": true,
+  "spawn_overrides": {},
+  "config": {
+    "start_pool": "camp_site:camp_site/center",
+    "size": 7
+  }
+}

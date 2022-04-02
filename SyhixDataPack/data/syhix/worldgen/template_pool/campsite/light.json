@@ -1,0 +1,33 @@
+{
+  "name": "syhix:campsite/light",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "rigid",
+        "location": "syhix:campsite/light/lantern_01",
+        "processors": "minecraft:street_plains"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "rigid",
+        "location": "syhix:campsite/light/lantern_02",
+        "processors": "minecraft:street_plains"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "rigid",
+        "location": "syhix:campsite/light/lantern_03",
+        "processors": "minecraft:street_plains"
+      }
+    }
+  ]
+}

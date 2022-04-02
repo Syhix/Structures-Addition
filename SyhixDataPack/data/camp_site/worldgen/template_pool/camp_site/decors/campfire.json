@@ -1,0 +1,42 @@
+{
+  "name": "camp_site:camp_site/decors/campfire",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "camp_site:camp_site/decors/campfire/fire_lit",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "camp_site:camp_site/decors/campfire/fire",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "camp_site:camp_site/decors/campfire/soul_fire_lit",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "camp_site:camp_site/decors/campfire/soul_fire",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

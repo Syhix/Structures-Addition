@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:bastion_remnant",
+  "biomes": "#minecraft:has_structure/mineshaft",
+  "spawn_overrides": {},
+  "config": {
+    "start_pool": "camp_site:pandax/basement_boss",
+    "size": 7
+  }
+}
