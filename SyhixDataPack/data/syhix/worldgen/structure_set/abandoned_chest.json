@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "syhix:abandoned_chest",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "salt": 963694744,
+        "spacing": 10,
+        "separation": 5
+    }
+}

@@ -1,7 +1,7 @@
-Mise à jour du data pack vers la 1.19
+Mise à jour du data pack pour la 1.19
 
-**Futures ajouts**
+**Changelog**
 - [ ] Mise à jour du village des marais avec le bois de mangrove
-- [ ] Ajouter variant de la witch hut
-- [ ] Variant des campsites dans les différent type de bois
-- [ ] Ajout de coffre de loot dans les cavernes
+- [ ] Ajouter de variantes de la witch hut
+- [ ] Ajout de variant des campsites dans les différent type de bois
+- [x] Ajout de coffre de loot dans les cavernes (abandoned chest avec structures)
