@@ -1,49 +1,49 @@
 {
-    "name": "abandoned_chest",
+    "name": "syhix:abandoned_chest",
     "fallback": "minecraft:empty",
     "elements": [
         {
             "weight": 1,
             "element": {
-                "element_type": "minecraft:single_pool_element",
+                "element_type": "minecraft:legacy_single_pool_element",
                 "projection": "terrain_matching",
-                "location": "syhix:/abandoned_chests/abandoned_chest_01",
+                "location": "syhix:abandoned_chests/abandoned_chest_01",
                 "processors": "minecraft:empty"
             }
         },
         {
             "weight": 1,
             "element": {
-                "element_type": "minecraft:single_pool_element",
+                "element_type": "minecraft:legacy_single_pool_element",
                 "projection": "terrain_matching",
-                "location": "syhix:/abandoned_chests/abandoned_chest_02",
+                "location": "syhix:abandoned_chests/abandoned_chest_02",
                 "processors": "minecraft:empty"
             }
         },
         {
             "weight": 1,
             "element": {
-                "element_type": "minecraft:single_pool_element",
+                "element_type": "minecraft:legacy_single_pool_element",
                 "projection": "terrain_matching",
-                "location": "syhix:/abandoned_chests/abandoned_chest_03",
+                "location": "syhix:abandoned_chests/abandoned_chest_03",
                 "processors": "minecraft:empty"
             }
         },
         {
             "weight": 1,
             "element": {
-                "element_type": "minecraft:single_pool_element",
+                "element_type": "minecraft:legacy_single_pool_element",
                 "projection": "terrain_matching",
-                "location": "syhix:/abandoned_chests/abandoned_chest_04",
+                "location": "syhix:abandoned_chests/abandoned_chest_04",
                 "processors": "minecraft:empty"
             }
         },
         {
             "weight": 1,
             "element": {
-                "element_type": "minecraft:single_pool_element",
+                "element_type": "minecraft:legacy_single_pool_element",
                 "projection": "terrain_matching",
-                "location": "syhix:/abandoned_chests/abandoned_chest_05",
+                "location": "syhix:abandoned_chests/abandoned_chest_05",
                 "processors": "minecraft:empty"
             }
         }
