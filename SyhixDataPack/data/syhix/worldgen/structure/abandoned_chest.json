@@ -2,9 +2,7 @@
     "type": "minecraft:jigsaw",
     "biomes": "#minecraft:has_structure/mineshaft",
     "step": "underground_decoration",
-    "terrain_adaptation": "bury",
     "spawn_overrides": {},
-    "adapt_noise": false,
     "start_pool": "syhix:abandoned_chest/abandoned_chest",
     "size": 1,
     "start_height": {
