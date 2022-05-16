@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "syhix:villager_hut",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "salt": 1379528829,
+        "spacing": 22,
+        "separation": 8
+    }
+}

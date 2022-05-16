@@ -1,0 +1,33 @@
+{
+    "name": "syhix:witch_spawn",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:legacy_single_pool_element",
+                "projection": "rigid",
+                "location": "syhix:witch_spawn/witch_spawn_01",
+                "processors": "minecraft:mossify_20_percent"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:legacy_single_pool_element",
+                "projection": "rigid",
+                "location": "syhix:witch_spawn/witch_spawn_02",
+                "processors": "syhix:stone_mossify_20_percent"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:legacy_single_pool_element",
+                "projection": "rigid",
+                "location": "syhix:witch_spawn/witch_spawn_03",
+                "processors": "syhix:brick_mossify_20_percent"
+            }
+        }
+    ]
+}
