@@ -8,7 +8,7 @@
                 "element_type": "minecraft:legacy_single_pool_element",
                 "projection": "rigid",
                 "location": "syhix:igloo/basement/middle",
-                "processors": "minecraft:mossify_20_percent"
+                "processors": "syhix:mossy_stone_brick_20"
             }
         }
     ]
