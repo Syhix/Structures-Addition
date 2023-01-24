@@ -1,0 +1,15 @@
+{
+    "name": "syhix:villager_mangrove_hut",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "syhix:villager_mangrove_hut",
+                "processors": "syhix:packed_mud_replace_grass_block"
+            }
+        }
+    ]
+}

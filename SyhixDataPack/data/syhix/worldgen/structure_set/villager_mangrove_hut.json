@@ -1,14 +1,14 @@
 {
     "structures": [
         {
-            "structure": "syhix:igloo",
+            "structure": "syhix:villager_mangrove_hut",
             "weight": 1
         }
     ],
     "placement": {
         "type": "minecraft:random_spread",
-        "salt": 42990583,
-        "spacing": 9,
-        "separation": 8
+        "salt": 19821865,
+        "spacing": 10,
+        "separation": 5
     }
 }
