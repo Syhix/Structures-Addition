@@ -1,18 +1,22 @@
 {
-  "structures": [
-    {
-      "structure": "syhix:dolmen",
-      "weight": 1
-    },
-    {
-      "structure": "syhix:dolmen_sand",
-      "weight": 1
+    "structures": [
+        {
+            "structure": "syhix:dolmen",
+            "weight": 1
+        },
+        {
+            "structure": "syhix:dolmen_sand",
+            "weight": 1
+        },
+        {
+            "structure": "syhix:dolmen_redsand",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "salt": 1020666928,
+        "spacing": 20,
+        "separation": 5
     }
-  ],
-  "placement": {
-    "type": "minecraft:random_spread",
-    "salt": 1020666928,
-    "spacing": 20,
-    "separation": 5
-  }
 }
