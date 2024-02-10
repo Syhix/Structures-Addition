@@ -3,14 +3,6 @@
         {
             "structure": "syhix:dolmen",
             "weight": 1
-        },
-        {
-            "structure": "syhix:dolmen_sand",
-            "weight": 1
-        },
-        {
-            "structure": "syhix:dolmen_redsand",
-            "weight": 1
         }
     ],
     "placement": {
