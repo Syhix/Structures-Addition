@@ -1,0 +1,15 @@
+{
+    "structures": [
+      {
+        "structure": "hitokii:ambandonned_tower",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "spacing": 50,
+      "separation": 7,
+      "salt": 1679530579
+    }
+  }
+  
