@@ -1,0 +1,82 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "rolls": 3,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:music_disc_11",
+            "weight": 10
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:soul_lantern",
+            "weight": 20,
+            "quality": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:recovery_compass",
+            "weight": 20,
+            "quality": 1,
+            "functions": [],
+            "conditions": []
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:iron_hoe",
+            "weight": 20,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_damage",
+                "modifiers": [],
+                "damage": {
+                  "type": "minecraft:uniform",
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:red_tulip",
+            "weight": 1,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": "Luigi's tulip",
+                "target": "item_name"
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  "Keep this flower as long as you can...",
+                  "it will bring you luck"
+                ],
+                "mode": "replace_all"
+              },
+              {
+                "function": "minecraft:set_attributes",
+                "modifiers": [
+                  {
+                    "attribute": "minecraft:luck",
+                    "id": "minecraft:luck",
+                    "amount": 10,
+                    "operation": "add_value",
+                    "slot": "offhand"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "random_sequence": "hitokii:chests/graveyard"
+  }
