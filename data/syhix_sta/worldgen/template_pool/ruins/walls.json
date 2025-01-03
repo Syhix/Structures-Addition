@@ -1,0 +1,15 @@
+{
+    "elements": [
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "terrain_matching",
+                "location": "syhix_sta:pale/ruins/walls",
+                "processors": "minecraft:empty",
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 6
+        }
+    ],
+    "fallback": "minecraft:empty"
+}

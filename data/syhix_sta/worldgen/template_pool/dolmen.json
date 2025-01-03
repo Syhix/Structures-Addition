@@ -6,7 +6,7 @@
             "element": {
                 "element_type": "minecraft:legacy_single_pool_element",
                 "projection": "rigid",
-                "location": "syhix:dolmen/01",
+                "location": "syhix_sta:dolmen/01",
                 "processors": "minecraft:mossify_10_percent"
             }
         },
@@ -15,7 +15,7 @@
             "element": {
                 "element_type": "minecraft:legacy_single_pool_element",
                 "projection": "rigid",
-                "location": "syhix:dolmen/02",
+                "location": "syhix_sta:dolmen/02",
                 "processors": "minecraft:empty"
             }
         },
@@ -24,7 +24,7 @@
             "element": {
                 "element_type": "minecraft:legacy_single_pool_element",
                 "projection": "rigid",
-                "location": "syhix:dolmen/big_01",
+                "location": "syhix_sta:dolmen/big_01",
                 "processors": "minecraft:mossify_20_percent"
             }
         },
@@ -33,7 +33,7 @@
             "element": {
                 "element_type": "minecraft:legacy_single_pool_element",
                 "projection": "rigid",
-                "location": "syhix:dolmen/big_02",
+                "location": "syhix_sta:dolmen/big_02",
                 "processors": "minecraft:empty"
             }
         },
@@ -42,7 +42,7 @@
             "element": {
                 "element_type": "minecraft:legacy_single_pool_element",
                 "projection": "rigid",
-                "location": "syhix:dolmen/big_03",
+                "location": "syhix_sta:dolmen/big_03",
                 "processors": "minecraft:empty"
             }
         }

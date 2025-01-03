@@ -14,7 +14,7 @@
   "step": "surface_structures",
   "spawn_overrides": {},
   "terrain_adaptation": "beard_thin",
-  "start_pool": "syhix:dolmen",
+  "start_pool": "syhix_sta:dolmen",
   "size": 1,
   "start_height": {
       "absolute": 1
