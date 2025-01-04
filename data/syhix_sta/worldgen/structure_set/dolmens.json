@@ -1,0 +1,26 @@
+{
+  "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 1020666928,
+      "separation": 8,
+      "spacing": 38
+  },
+  "structures": [
+      {
+          "structure": "syhix_sta:dolmen",
+          "weight": 1
+      },
+      {
+          "structure": "syhix_sta:dolmen_desert",
+          "weight": 1
+      },
+      {
+          "structure": "syhix_sta:dolmen_mesa",
+          "weight": 1
+      },
+      {
+          "structure": "syhix_sta:dolmen_swamp",
+          "weight": 1
+      }
+  ]
+}

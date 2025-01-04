@@ -1,50 +1,51 @@
 {
+    "name": "syhix_sta:dolmen",
     "fallback": "minecraft:empty",
     "elements": [
-        {
-            "weight": 5,
-            "element": {
-                "element_type": "minecraft:legacy_single_pool_element",
-                "projection": "rigid",
-                "location": "syhix_sta:dolmen/01",
-                "processors": "minecraft:mossify_10_percent"
-            }
-        },
-        {
-            "weight": 4,
-            "element": {
-                "element_type": "minecraft:legacy_single_pool_element",
-                "projection": "rigid",
-                "location": "syhix_sta:dolmen/02",
-                "processors": "minecraft:empty"
-            }
-        },
-        {
-            "weight": 2,
-            "element": {
-                "element_type": "minecraft:legacy_single_pool_element",
-                "projection": "rigid",
-                "location": "syhix_sta:dolmen/big_01",
-                "processors": "minecraft:mossify_20_percent"
-            }
-        },
-        {
-            "weight": 2,
-            "element": {
-                "element_type": "minecraft:legacy_single_pool_element",
-                "projection": "rigid",
-                "location": "syhix_sta:dolmen/big_02",
-                "processors": "minecraft:empty"
-            }
-        },
-        {
-            "weight": 2,
-            "element": {
-                "element_type": "minecraft:legacy_single_pool_element",
-                "projection": "rigid",
-                "location": "syhix_sta:dolmen/big_03",
-                "processors": "minecraft:empty"
-            }
+      {
+        "weight": 5,
+        "element": {
+          "element_type": "minecraft:legacy_single_pool_element",
+          "projection": "rigid",
+          "location": "syhix_sta:dolmen/01",
+          "processors": "minecraft:mossify_10_percent"
         }
+      },
+      {
+        "weight": 4,
+        "element": {
+          "element_type": "minecraft:legacy_single_pool_element",
+          "projection": "rigid",
+          "location": "syhix_sta:dolmen/02",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 2,
+        "element": {
+          "element_type": "minecraft:legacy_single_pool_element",
+          "projection": "rigid",
+          "location": "syhix_sta:dolmen/big_01",
+          "processors": "minecraft:mossify_20_percent"
+        }
+      },
+      {
+        "weight": 2,
+        "element": {
+          "element_type": "minecraft:legacy_single_pool_element",
+          "projection": "rigid",
+          "location": "syhix_sta:dolmen/big_02",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 2,
+        "element": {
+          "element_type": "minecraft:legacy_single_pool_element",
+          "projection": "rigid",
+          "location": "syhix_sta:dolmen/big_03",
+          "processors": "minecraft:empty"
+        }
+      }
     ]
-}
+  }
