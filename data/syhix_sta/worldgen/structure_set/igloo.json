@@ -1,0 +1,14 @@
+{
+    "placement": {
+        "type": "minecraft:random_spread",
+        "salt": 3592014,
+        "separation": 10,
+        "spacing": 30
+    },
+    "structures": [
+        {
+            "structure": "syhix_sta:igloo",
+            "weight": 1
+        }
+    ]
+}
